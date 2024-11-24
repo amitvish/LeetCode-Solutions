@@ -9,9 +9,12 @@ class Solution {
         String balloon = "balloon";
         int minCount = Integer.MAX_VALUE;
         for (char c : balloon.toCharArray()) {
-            if (map.get(c) == null) return 0;
-            int requiredCount = c == 'l' || c == 'o' ? map.get(c) / 2 : map.get(c);
-            minCount = Math.min(minCount, requiredCount);
+            if (map.containsKey(c)) {
+                int requiredCount = c == 'l' || c == 'o' ? map.get(c) / 2 : map.get(c);
+                minCount = Math.min(minCount, requiredCount);
+            } else {
+                return 0;
+            }
         }
         return minCount;
     }
