@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/amitvish/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/amitvish/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/amitvish/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/amitvish/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/amitvish/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/amitvish/LeetCode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/amitvish/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
