@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/amitvish/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/amitvish/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0643-maximum-average-subarray-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/amitvish/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitvish/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/amitvish/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/amitvish/LeetCode-Solutions/tree/master/0274-h-index) |
 ## Matrix
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/amitvish/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/amitvish/LeetCode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
