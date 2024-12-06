@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/amitvish/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/amitvish/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/amitvish/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/amitvish/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/amitvish/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/amitvish/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/amitvish/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/amitvish/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/amitvish/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/amitvish/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/amitvish/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/amitvish/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/amitvish/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/amitvish/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/amitvish/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/amitvish/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
