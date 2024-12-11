@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/amitvish/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/amitvish/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/amitvish/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0224-basic-calculator](https://github.com/amitvish/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/amitvish/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/amitvish/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amitvish/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/amitvish/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitvish/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/amitvish/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/amitvish/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/amitvish/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/amitvish/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/amitvish/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitvish/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/amitvish/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/amitvish/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amitvish/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/amitvish/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/amitvish/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
