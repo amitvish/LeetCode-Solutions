@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amitvish/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -190,13 +191,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amitvish/LeetCode-Solutions/tree/master/0055-jump-game) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
