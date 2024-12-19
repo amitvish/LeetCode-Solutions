@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/amitvish/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/amitvish/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitvish/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/amitvish/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/amitvish/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/amitvish/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/amitvish/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/amitvish/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amitvish/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/amitvish/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Monotonic Stack
@@ -192,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/amitvish/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/amitvish/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
