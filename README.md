@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amitvish/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/amitvish/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/amitvish/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/amitvish/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitvish/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/amitvish/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/amitvish/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/amitvish/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/amitvish/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/amitvish/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/amitvish/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/amitvish/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Monotonic Stack
 |  |
@@ -197,12 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/amitvish/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/amitvish/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amitvish/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/amitvish/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
