@@ -1,8 +1,9 @@
 class Solution {
+    int m, n;
 
     public int numDistinct(String s, String t) {
-        int m = s.length();
-        int n = t.length();
+        m = s.length();
+        n = t.length();
         int memo[][] = new int[m][n];
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
@@ -16,6 +17,7 @@ class Solution {
         int count = 0;
         if (j == t.length()) return 1;
         if (i == s.length()) return 0;
+        if (m - i < n - j) return 0;
         if (memo[i][j] != -1) return memo[i][j];
         if (s.charAt(i) == t.charAt(j)) {
             count += helper(s, t, i + 1, j + 1, memo);
