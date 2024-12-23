@@ -2,7 +2,7 @@ class Solution {
 
     public int lengthOfLIS(int[] nums) {
         //create 1d dp starting with 1
-        if(nums.length < 1) return 0;
+        // if(nums.length < 1) return 0;
         int n = nums.length;
         int max = 1;
         int dp[] = new int[n];
