@@ -3,7 +3,7 @@ class Solution {
     public int uniquePaths(int m, int n) {
         //build 2d dp and fill it
         int dp[][] = new int[m][n];
-        dp[0][0] = 1;
+        // dp[0][0] = 1;
         //fill first row and first col with 1;
         for (int i = 0; i < m; i++) {
             dp[i][0] = 1;
