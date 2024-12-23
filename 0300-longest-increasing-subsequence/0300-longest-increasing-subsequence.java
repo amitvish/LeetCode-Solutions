@@ -2,8 +2,9 @@ class Solution {
 
     public int lengthOfLIS(int[] nums) {
         //create 1d dp starting with 1
+        if(nums.length < 1) return 0;
         int n = nums.length;
-        int max = 0;
+        int max = 1;
         int dp[] = new int[n];
         for (int i = 0; i < n; i++) {
             dp[i] = 1;
@@ -15,13 +16,7 @@ class Solution {
                     dp[i] = Math.max(dp[i], dp[j] + 1);
                 }
             }
-        }
-
-        // return the max value in dp array
-        for (int k = 0; k < n; k++) {
-            if (dp[k] > max) {
-                max = dp[k];
-            }
+            max = Math.max(dp[i], max);
         }
         return max;
     }
