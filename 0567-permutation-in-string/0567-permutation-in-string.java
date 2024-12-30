@@ -16,12 +16,27 @@ class Solution {
     }
 
     private boolean isPermutation(String s1, String s2) {
-        char[] charArray1 = s1.toCharArray();
-        char[] charArray2 = s2.toCharArray();
-
-        Arrays.sort(charArray1);
-        Arrays.sort(charArray2);
-
-        return Arrays.equals(charArray1, charArray2);
+    if (s1.length() != s2.length()) {
+        return false; // Permutations must have the same length
     }
+
+    int[] charCount = new int[26]; // Assuming lowercase English letters
+
+    // Count characters in s1
+    for (char c : s1.toCharArray()) {
+        charCount[c - 'a']++;
+    }
+
+    // Subtract character counts based on s2
+    for (char c : s2.toCharArray()) {
+        charCount[c - 'a']--;
+        if (charCount[c - 'a'] < 0) {
+            return false; // More occurrences in s2 than s1
+        }
+    }
+
+    // If all counts are zero, s1 and s2 are permutations
+    return true;
+}
+
 }
