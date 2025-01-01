@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amitvish/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amitvish/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/amitvish/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/amitvish/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/amitvish/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/amitvish/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/amitvish/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/amitvish/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
@@ -290,8 +292,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amitvish/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/amitvish/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amitvish/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/amitvish/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/amitvish/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
