@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/amitvish/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/amitvish/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/amitvish/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/amitvish/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/amitvish/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/amitvish/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/amitvish/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/amitvish/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amitvish/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Counting
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/amitvish/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/amitvish/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/amitvish/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amitvish/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/amitvish/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/amitvish/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Counting Sort
 |  |
 | ------- |
