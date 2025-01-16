@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/amitvish/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amitvish/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/amitvish/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amitvish/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/amitvish/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitvish/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/amitvish/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/amitvish/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amitvish/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/amitvish/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/amitvish/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amitvish/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/amitvish/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amitvish/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/amitvish/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amitvish/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/amitvish/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amitvish/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amitvish/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amitvish/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/amitvish/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amitvish/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amitvish/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
