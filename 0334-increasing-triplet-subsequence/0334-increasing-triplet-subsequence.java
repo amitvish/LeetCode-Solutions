@@ -2,6 +2,8 @@ class Solution {
 
     public boolean increasingTriplet(int[] nums) {
         //num1 < num2 < num3
+        if (nums == null || nums.length < 3) return false;
+
         int num1 = Integer.MAX_VALUE;
         int num2 = Integer.MAX_VALUE;
         int num3 = nums[0];
