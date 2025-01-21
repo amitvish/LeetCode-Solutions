@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/amitvish/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/amitvish/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/amitvish/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/amitvish/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/amitvish/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/amitvish/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
