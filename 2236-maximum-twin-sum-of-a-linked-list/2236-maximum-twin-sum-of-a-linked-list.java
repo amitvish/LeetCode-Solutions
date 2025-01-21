@@ -11,18 +11,34 @@
 class Solution {
 
     public int pairSum(ListNode head) {
-        ArrayList<Integer> list = new ArrayList<>();
-        ListNode curr = head;
-        while (curr != null) {
-            list.add(curr.val);
-            curr = curr.next;
+        //find middle and reverse second list
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
         }
-        int n = list.size();
+
+        ListNode secondHalf = reverseList(slow);
         int maxSum = 0;
-        for (int i = 0, j = n - 1; i < j; i++, j--) {
-            int currSum = list.get(i) + list.get(j);
-            maxSum = Math.max(currSum, maxSum);
+        ListNode firstHalf = head;
+        while (firstHalf.next != null) {
+            maxSum = Math.max(maxSum, firstHalf.val + secondHalf.val);
+            firstHalf = firstHalf.next;
+            secondHalf = secondHalf.next;
         }
         return maxSum;
+    }
+
+    private ListNode reverseList(ListNode head) {
+        ListNode curr = head;
+        ListNode prev = null;
+        while (curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
     }
 }
