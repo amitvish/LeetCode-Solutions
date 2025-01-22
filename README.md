@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/amitvish/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/amitvish/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/amitvish/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/amitvish/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/amitvish/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/amitvish/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/amitvish/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/amitvish/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/amitvish/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/amitvish/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/amitvish/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/amitvish/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/amitvish/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/amitvish/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/amitvish/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amitvish/LeetCode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
