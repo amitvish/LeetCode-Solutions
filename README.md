@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amitvish/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/amitvish/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0904-leaf-similar-trees](https://github.com/amitvish/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/amitvish/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amitvish/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amitvish/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/amitvish/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/amitvish/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amitvish/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amitvish/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitvish/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/amitvish/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/amitvish/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amitvish/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitvish/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/amitvish/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/amitvish/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
