@@ -9,7 +9,7 @@ class RecentCounter {
         queue.add(t);
 
         while (!queue.isEmpty() && queue.peek() < t - 3000) {
-            queue.remove();
+            queue.poll();
         }
 
         return queue.size();
