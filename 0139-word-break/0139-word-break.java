@@ -2,10 +2,6 @@ class Solution {
 
     public boolean wordBreak(String s, List<String> wordDict) {
         HashSet<String> dictionary = new HashSet<>(wordDict);
-        int maxLen = 0;
-        for (String word : wordDict) {
-            maxLen = Math.max(maxLen, word.length());
-        }
 
         int n = s.length();
         boolean memo[] = new boolean[n + 1];
