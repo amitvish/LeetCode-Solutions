@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amitvish/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/amitvish/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/amitvish/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/amitvish/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amitvish/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitvish/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/amitvish/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/amitvish/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -465,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amitvish/LeetCode-Solutions/tree/master/0139-word-break) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
