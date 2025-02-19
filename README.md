@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitvish/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/amitvish/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/amitvish/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [2083-three-divisors](https://github.com/amitvish/LeetCode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
@@ -470,5 +471,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/amitvish/LeetCode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/amitvish/LeetCode-Solutions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
