@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/amitvish/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2551-apply-operations-to-an-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amitvish/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/amitvish/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/amitvish/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amitvish/LeetCode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/amitvish/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/amitvish/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/amitvish/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
