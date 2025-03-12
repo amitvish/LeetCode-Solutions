@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/amitvish/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/amitvish/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitvish/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/amitvish/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/amitvish/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/amitvish/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amitvish/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
