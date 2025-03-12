@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/amitvish/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2551-apply-operations-to-an-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amitvish/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amitvish/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/amitvish/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/amitvish/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/amitvish/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amitvish/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amitvish/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/amitvish/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0907-koko-eating-bananas](https://github.com/amitvish/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitvish/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amitvish/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
