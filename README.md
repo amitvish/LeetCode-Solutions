@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amitvish/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amitvish/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/amitvish/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
