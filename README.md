@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/amitvish/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/amitvish/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/amitvish/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/amitvish/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/amitvish/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/amitvish/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/amitvish/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitvish/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/amitvish/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/amitvish/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/amitvish/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitvish/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/amitvish/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/amitvish/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
