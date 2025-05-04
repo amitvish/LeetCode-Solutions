@@ -1,11 +1,9 @@
-class MyHashMap extends HashMap<Integer, Integer>{
-    
+class MyHashMap extends HashMap<Integer, Integer> {
+
     public int get(int key) {
-        Integer value = super.get(key);
-        return value == null ? -1 : value;
+        return super.getOrDefault(key, -1);
     }
 }
-
 /**
  * Your MyHashMap object will be instantiated and called as such:
  * MyHashMap obj = new MyHashMap();
