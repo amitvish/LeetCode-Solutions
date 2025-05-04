@@ -3,7 +3,6 @@ class MyHashSet {
 
     public MyHashSet() {
         hashPool = new boolean[1000001];
-        Arrays.fill(hashPool, false);
     }
 
     public void add(int key) {
