@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/amitvish/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/amitvish/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/amitvish/LeetCode-Solutions/tree/master/0817-design-hashmap) |
+| [0876-hand-of-straights](https://github.com/amitvish/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/amitvish/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitvish/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/amitvish/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/amitvish/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/amitvish/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0876-hand-of-straights](https://github.com/amitvish/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amitvish/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/amitvish/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/amitvish/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/amitvish/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/amitvish/LeetCode-Solutions/tree/master/0817-design-hashmap) |
+| [0876-hand-of-straights](https://github.com/amitvish/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/amitvish/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1297-maximum-number-of-balloons](https://github.com/amitvish/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/amitvish/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/amitvish/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/amitvish/LeetCode-Solutions/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/amitvish/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/amitvish/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Graph
 |  |
