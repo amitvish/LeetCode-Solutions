@@ -13,7 +13,7 @@ class Solution {
         for(int card : map.keySet()){
             int cardCount = map.get(card);
             if(cardCount > 0){
-                for(int i = 0; i < groupSize; i++){
+                for(int i = 1; i < groupSize; i++){
                     int nextCard = card + i;
                     int nextCardCount = map.getOrDefault(nextCard, 0);
                     if(nextCardCount < cardCount){
