@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/amitvish/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/amitvish/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/amitvish/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [1708-design-parking-system](https://github.com/amitvish/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/amitvish/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2470-removing-stars-from-a-string](https://github.com/amitvish/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/amitvish/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amitvish/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/amitvish/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1708-design-parking-system](https://github.com/amitvish/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amitvish/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amitvish/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/amitvish/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/amitvish/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/amitvish/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1708-design-parking-system](https://github.com/amitvish/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
