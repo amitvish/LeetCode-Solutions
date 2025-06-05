@@ -1,25 +1,31 @@
 class Solution {
-
     public int[] topKFrequent(int[] nums, int k) {
-        int[] result = new int[k];
-        HashMap<Integer, Integer> elements = new HashMap<>();
+        List<Integer> result = new ArrayList<>();
+        HashMap<Integer, Integer> freqMap = new HashMap<>();
+
         for (int num : nums) {
-            elements.put(num, elements.getOrDefault(num, 0) + 1);
+            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
         }
 
-        PriorityQueue<Map.Entry<Integer, Integer>> minHeap = new PriorityQueue<>(
-            (a, b) -> a.getValue() - b.getValue() // Compare entries by frequency
-        );
-        for (Map.Entry<Integer, Integer> entry : elements.entrySet()) {
-            minHeap.add(entry);
-            if (minHeap.size() > k) {
-                minHeap.poll(); // Remove the least frequent element
+        // Buckets: array of lists where index = frequency
+        List<Integer>[] count = new List[nums.length + 1];
+
+        for (int i = 0; i <= nums.length; i++) {
+            count[i] = new ArrayList<>();
+        }
+
+        for (Map.Entry<Integer, Integer> entry : freqMap.entrySet()) {
+            int key = entry.getKey();
+            int value = entry.getValue();
+            count[value].add(key);
+        }
+
+        for (int i = count.length - 1; i >= 0 && result.size() < k; i--) {
+            for (int j = 0; j < count[i].size() && result.size() < k; j++) {
+                result.add(count[i].get(j));
             }
         }
-        int index = 0;
-        while (!minHeap.isEmpty()) {
-            result[index++] = minHeap.poll().getKey();
-        }
-        return result;
+
+        return result.stream().mapToInt(Integer::intValue).toArray();
     }
 }
