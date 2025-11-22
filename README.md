@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/amitvish/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amitvish/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/amitvish/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/amitvish/LeetCode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3483-alternating-groups-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/amitvish/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/amitvish/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/amitvish/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amitvish/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/amitvish/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3830-find-closest-person](https://github.com/amitvish/LeetCode-Solutions/tree/master/3830-find-closest-person) |
