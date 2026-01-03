@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/amitvish/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/amitvish/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/amitvish/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/amitvish/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/amitvish/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/amitvish/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/amitvish/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amitvish/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/amitvish/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/amitvish/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/amitvish/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0876-hand-of-straights](https://github.com/amitvish/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/amitvish/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/amitvish/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amitvish/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/amitvish/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/amitvish/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/amitvish/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/amitvish/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/amitvish/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/amitvish/LeetCode-Solutions/tree/master/0816-design-hashset) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/amitvish/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amitvish/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0645-set-mismatch](https://github.com/amitvish/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amitvish/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Counting Sort
 |  |
